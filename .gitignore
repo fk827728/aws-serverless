@@ -28,9 +28,6 @@ build/
 # Misc
 .DS_Store
 
-# local environment
-.env
-
 # build folder
 .build
 
